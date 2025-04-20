@@ -1,1 +1,1 @@
-# Identificador de bandeiras de cartões.
+# Identificador de bandeiras de cartões em JAVA.
